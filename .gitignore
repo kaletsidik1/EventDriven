@@ -1,0 +1,19 @@
+# Build output folders
+*/bin/
+*/obj/
+
+# User-specific files
+*.user
+*.suo
+
+# NuGet packages and cache
+*.nuget/
+project.lock.json
+project.fragment.lock.json
+project.nuget.cache
+
+# VS Code settings
+.vscode/
+
+# Rider settings
+.idea/
